@@ -24,4 +24,4 @@
 
 
 
-### version:  v1.2
+### versiyon:  v1.2
